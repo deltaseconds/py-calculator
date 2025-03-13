@@ -14,8 +14,8 @@ A basic calculator built using Python and Tkinter.
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/simple-calculator.git
-   cd simple-calculator
+   git clone https://github.com/deltaseconds/py-calculator.git
+   cd py-calculator
    ```
 2. Run the script:
    ```sh
@@ -27,9 +27,6 @@ A basic calculator built using Python and Tkinter.
 - Use arithmetic operator buttons (`+`, `-`, `*`, `/`) to perform calculations.
 - Press `=` to evaluate the expression.
 - Use `C` to clear the input field.
-
-## Preview
-![Calculator UI](screenshot.png) *(Add a screenshot of the application here)*
 
 ## License
 This project is licensed under the MIT License.
